@@ -1,0 +1,15 @@
+.container{
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+    background-color: #d3d3d3;
+}
+.botao{
+    margin-left: 2em;
+    background-color: #222;
+    color: #fff;
+
+}
+.botao:hover{
+    color: firebrick;
+}

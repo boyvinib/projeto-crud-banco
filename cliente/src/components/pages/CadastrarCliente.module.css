@@ -1,0 +1,13 @@
+.cadastrar_cliente {
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.cadastrar_cliente h1{
+    margin-bottom: 0.5em;
+}
+
+.cadastrar_cliente p{
+    color:#7b7b7b;
+}
